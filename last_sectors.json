@@ -1,0 +1,21 @@
+{
+  "sectors": [
+    {"name":"半导体","chg":4.82,"code":"BK0711"},
+    {"name":"通信设备","chg":4.15,"code":"BK0919"},
+    {"name":"AI 算力","chg":3.97,"code":"BK0992"},
+    {"name":"消费电子","chg":3.45,"code":"BK0892"},
+    {"name":"军工装备","chg":3.12,"code":"BK0921"},
+    {"name":"新能源车","chg":2.88,"code":"BK0900"},
+    {"name":"光伏设备","chg":2.56,"code":"BK0911"},
+    {"name":"创新药","chg":2.23,"code":"BK0930"},
+    {"name":"电力电网","chg":1.95,"code":"BK0885"},
+    {"name":"机器人","chg":1.68,"code":"BK0950"},
+    {"name":"有色金属","chg":1.55,"code":"BK0881"},
+    {"name":"白酒","chg":1.42,"code":"BK0535"},
+    {"name":"银行","chg":1.28,"code":"BK0536"},
+    {"name":"证券","chg":1.15,"code":"BK0473"},
+    {"name":"房地产","chg":0.88,"code":"BK0836"}
+  ],
+  "overview": {"up":2156,"flat":189,"down":876,"zt":78,"dt":3,"vol":11860},
+  "updated": "2026-06-02"
+}
