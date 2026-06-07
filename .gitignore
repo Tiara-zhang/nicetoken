@@ -1,0 +1,25 @@
+# Secrets — never commit
+.cf_token
+*.token
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Backups / scratch
+*.bak_*
+*.bak_pretfix
+_last_good.json
+.last_good.json*
+.last_good.json.bak*
+history/sector_hist_*.json
+_live_probe.py
+_check_state.py
+_diff_check.py
+_inspect.py
+_probe.py
+_seed_snapshot.py
+_t.py
